@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fffdfb"/>
+  <circle cx="82" cy="540" r="260" fill="#d9efff"/>
+  <circle cx="1100" cy="70" r="210" fill="#ffe1d4"/>
+  <rect x="70" y="70" width="1060" height="490" rx="28" fill="none" stroke="#e4e3ef" stroke-width="2"/>
+  <text x="110" y="170" fill="#635bdb" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="5">COMPUTER SCIENCE &amp; DATA SCIENCE</text>
+  <text x="105" y="305" fill="#20243a" font-family="Arial,sans-serif" font-size="92" font-weight="700">Patel</text>
+  <text x="105" y="410" fill="#635bdb" font-family="Arial,sans-serif" font-size="92" font-weight="700">Gnyaneshwari.</text>
+  <text x="110" y="490" fill="#68708a" font-family="Arial,sans-serif" font-size="25">Learning · Building · Growing</text>
+  <circle cx="1030" cy="475" r="54" fill="#635bdb"/>
+  <text x="1030" y="486" fill="#fff" font-family="Arial,sans-serif" font-size="23" font-weight="700" text-anchor="middle">PG.</text>
+</svg>
